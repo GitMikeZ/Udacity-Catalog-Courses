@@ -1,0 +1,7 @@
+Worthwhile optimizations
+-Post-process that tests your app on a mobile screen (1 day)
+-An editor plugin that autocloses your HTML tags (30 min)
+-A script that generates images for hi-res devices (4 hours)
+
+
+
